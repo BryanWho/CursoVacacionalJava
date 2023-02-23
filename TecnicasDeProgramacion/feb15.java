@@ -1,7 +1,7 @@
 package TecnicasDeProgramacion;
 import java.util.Scanner;
 
-public class semana1 {
+public class feb15 {
     
     public static void main(String[] args) {
         //int valor;
