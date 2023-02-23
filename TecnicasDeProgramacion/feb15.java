@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class semana1 {
     
     public static void main(String[] args) {
-                //int valor;
+        //int valor;
         //int dato = 5;
         //valor = (dato%2 == 0) ? 1 : 0;
         //System.out.println(valor);
